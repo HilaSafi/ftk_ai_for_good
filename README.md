@@ -12,7 +12,7 @@ Your goal is not just to build something impressive, but to build something **us
 All final submissions must be uploaded to GitHub by:
 
 # 🗓️ Sunday, July 5th  
-# ⏰ 11:59 PM Ghana Time
+# ⏰ 11:59 PM GMT
 
 Late submissions may not be considered for judging, so please make sure your repository is complete before the deadline.
 
